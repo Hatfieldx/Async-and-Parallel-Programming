@@ -1,0 +1,14 @@
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\bin\Debug\part1.exe.config
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\bin\Debug\part1.exe
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\bin\Debug\part1.pdb
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1.csprojAssemblyReference.cache
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\MainWindow.g.cs
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\App.g.cs
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1_MarkupCompile.cache
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1_MarkupCompile.lref
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\MainWindow.baml
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1.g.resources
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1.Properties.Resources.resources
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1.csproj.GenerateResource.cache
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1.exe
+D:\EDU_C#\itvdn async&parallel\Lesson7\part1\obj\Debug\part1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Us\source\repos\Lesson5\part3\bin\Debug\netcoreapp3.1\part3.exe
+C:\Users\Us\source\repos\Lesson5\part3\bin\Debug\netcoreapp3.1\part3.deps.json
+C:\Users\Us\source\repos\Lesson5\part3\bin\Debug\netcoreapp3.1\part3.runtimeconfig.json
+C:\Users\Us\source\repos\Lesson5\part3\bin\Debug\netcoreapp3.1\part3.runtimeconfig.dev.json
+C:\Users\Us\source\repos\Lesson5\part3\bin\Debug\netcoreapp3.1\part3.dll
+C:\Users\Us\source\repos\Lesson5\part3\bin\Debug\netcoreapp3.1\part3.pdb
+C:\Users\Us\source\repos\Lesson5\part3\obj\Debug\netcoreapp3.1\part3.csprojAssemblyReference.cache
+C:\Users\Us\source\repos\Lesson5\part3\obj\Debug\netcoreapp3.1\part3.AssemblyInfoInputs.cache
+C:\Users\Us\source\repos\Lesson5\part3\obj\Debug\netcoreapp3.1\part3.AssemblyInfo.cs
+C:\Users\Us\source\repos\Lesson5\part3\obj\Debug\netcoreapp3.1\part3.dll
+C:\Users\Us\source\repos\Lesson5\part3\obj\Debug\netcoreapp3.1\part3.pdb

@@ -1,0 +1,14 @@
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp.csprojAssemblyReference.cache
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\MainForm.g.cs
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp_MarkupCompile.cache
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp_MarkupCompile.lref
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\bin\Debug\WPFapp.dll
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\bin\Debug\WPFapp.pdb
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\MainForm.baml
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\Themes\Generic.baml
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp.g.resources
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp.Properties.Resources.resources
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp.csproj.GenerateResource.cache
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp.dll
+D:\EDU_C#\itvdn async&parallel\LEsson2\WPFapp\obj\Debug\WPFapp.pdb

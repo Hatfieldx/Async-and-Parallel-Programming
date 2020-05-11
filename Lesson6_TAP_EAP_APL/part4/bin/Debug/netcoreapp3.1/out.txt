@@ -1,0 +1,1378 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#"
+      lang="ru">
+<head>
+    
+<!--Donut#E01996A7284F760C6196E50706A6B61048BB70B0C3DC50EB15D8D78C11B02600697DF3650F9747E3E1928115C2EEDCCF124F1BC8604E9833364ADE0059DC6E104BCC2A77502DF501D3D1B07240D463DAB4CFC9F9B95337AD0AE857F4294A33F92719A0E1178C5397B62D4961FAF22FF6F85846F631F863852BBFA5509E3C6E21D9A23D33658F31781B0E4AB902CC4638C6D2A17F0B9A7214EAF7C09EB17BDA5C4810F8BB0022E8503B51D2C239D8EBF74B007FA53CF0B711893F5F80B0E4822E55780EFF534A756DB4EDDE1D9026AD2E586D63C5CF46658E70EF50A9938DBD34E8D95A96B6C021E1FFD3EE64B2F0CAE07566797CF2E126CF1C1A6B6F17E16E106624FA0629DFF693AD8FFC7533768BDB2984483CE1586E2CEE79B6C6C20D729C1539FC8128022BEC5DC4AF027BD610D89F7587E7A7F34B846DF44B9374B6818FEE12553FEEEF0F73D3D46AA2F5AEA83B967C22B4B466DE2D7D637ED40F4930F7E47483F62DD3A7CBF7470B6EF29DDB15D834B26A072A5CF25BD630E28C1F1DF96A01006A91D4E6394A4003A4379B36B712358422E68F53E9862B0FEBA0CB635065CC01D785A6FEE2F8BDB203D3B1C2BD8E989D4050EC15788ED47C6D781E9636F540E11EFEC8F772B4E790ECC771DBD710E0FAAB93C4E855A795420CE1F22D869B28879F1824CE5AA35AC7E207E87DC93E8FEFC84C4D0DE8D7BC2755A3A6237D08B8F82B18FAFF92D8A4CC542072E4A1EF6D2CC8#--><script>
+    window.dataLayer = window.dataLayer || []
+    window.dataLayer.push({
+        "Client_ID": "Non-Authorized",
+    });
+</script><!--EndDonut-->        <script>
+            (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-P4KPXVQ');
+        </script>
+        <script>
+            !function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) }; if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s) }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '851500435026888');
+            fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=851500435026888&ev=PageView" /></noscript>
+
+    
+
+    <meta charset="utf-8" />
+    <meta name="yandex-verification" content="86e26d47e4fc7591" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="description" content="ITVDN 👍 - самые популярные видео курсы онлайн программирования. У нас вы найдёте курсы по С#/.NET Developer, Frontend Developer, ASP.NET MVC Developer, Python Developer, Unity/Game Developer.">
+    <meta name="keywords" content="Курсы программирования с нуля, онлайн курсы программирования, обучение программированию, видео курсы программирования, уроки программирования для начинающих, it курсы онлайн">
+
+
+    <title>IT Курсы программирования онлайн - обучение программированию, видео уроки | ITVDN</title>
+    <link rel="icon" type="image/ico" href="/Content/img/common/favicon.ico" />
+
+    <link href="/Content/css/layout?v=K_uQfK7Echa4nYWrEp5yrrvjJiOjB-sBeFtBUjdo2d01" rel="stylesheet"/>
+
+    <link rel="preload" href="/Content/fonts/itvdn-icons/fonts/itvdn-icons.eot?azx4f0" as="font" crossorigin>
+    <link rel="preload" href="/Content/fonts/itvdn-icons/fonts/itvdn-icons.ttf?azx4f0" as="font" crossorigin>
+    <link rel="preload" href="/Content/fonts/itvdn-icons/fonts/itvdn-icons.woff?azx4f0" as="font" crossorigin>
+    <link rel="preload" href="/Content/fonts/itvdn-icons/fonts/itvdn-icons.svg?azx4f0#itvdn-icons" as="image" crossorigin>
+    
+    
+    
+    
+    
+
+
+    <script src="/Content/js/lib/shjs-0.6/sh_main.js"></script>
+    <script src="/Content/js/lib/shjs-0.6/lang/sh_cpp.js"></script>
+    <link rel="stylesheet" href="/Content/js/lib/shjs-0.6/css/sh_acid.css" />
+</head>
+<body>
+            <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P4KPXVQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    <div class="side-menu">
+    <div class="top-bunner">
+        <a href="/ru" class="logo-link">
+            <div class="logo-img-wrapper">
+                <img src="/Content/img/header/logo.svg" alt="ITVDN: курсы программирования" title="ITVDN logo">
+            </div>
+            <div class="logo-text-wrapper">
+                <span>Видеокурсы по <br /> программированию</span>
+            </div>
+        </a>
+        <span class="mobile-menu-button">&#x2630;</span>
+    </div>
+    <div class="side-menu-wrapper">
+        <div class="menu-items-wrapper">
+            <ul class="menu-items-list first-level">
+                <li data-url-active="/ru/(catalog|video|patterns)">
+                    <a href="/ru/catalog" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-video-catalog menu-item-icon"></span>
+                            <span class="menu-item-name">Каталог видеокурсов</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li class="desktop" data-url-active="/ru/specialities">
+                    <a class="menu-item">
+                        <div>
+                            <span class="itvdnicon-it-company menu-item-icon"></span>
+                            <span class="menu-item-name">IT специальности</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+                    <div class="dropdown-block specialties">
+
+                        <div class="bg-fixed"></div>
+
+
+                        <div class="bg-fixed"></div>
+
+                        <div class="sub-menu-container width-2x">
+
+                                <ul class="menu-items-list second-level float-left">
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/start">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-icon_start-up"></span>
+                                                    <span class="menu-item-name">С чего начать?</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/html-coder">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-HTML"></span>
+                                                    <span class="menu-item-name">Верстальщик сайтов</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/frontend-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-frontend-new"></span>
+                                                    <span class="menu-item-name">Frontend Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/net-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-net-developer"></span>
+                                                    <span class="menu-item-name">.NET Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/backend-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-solution-architect"></span>
+                                                    <span class="menu-item-name">ASP.NET MVC Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/java-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-Java"></span>
+                                                    <span class="menu-item-name">Java Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/php-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-PHP"></span>
+                                                    <span class="menu-item-name">PHP Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/python-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-python-developer"></span>
+                                                    <span class="menu-item-name">Python Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/game-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-game-developer"></span>
+                                                    <span class="menu-item-name">Unity / Game Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/database-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-database-developer11"></span>
+                                                    <span class="menu-item-name">Database Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                </ul>
+                                <ul class="menu-items-list second-level float-left">
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/qa">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-qa-developer"></span>
+                                                    <span class="menu-item-name">Quality Assurance</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/ios-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-ios"></span>
+                                                    <span class="menu-item-name">iOS Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/ruby">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-ruby"></span>
+                                                    <span class="menu-item-name">Ruby Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/js">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-JS"></span>
+                                                    <span class="menu-item-name">JavaScript Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/aspnet-core">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-asp-net-core"></span>
+                                                    <span class="menu-item-name">ASP.NET Core Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/cplspls">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-cpp"></span>
+                                                    <span class="menu-item-name">C++ Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/android-dev">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-android"></span>
+                                                    <span class="menu-item-name">Android Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/angular-dev">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-angular"></span>
+                                                    <span class="menu-item-name">Angular Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/dnet-desktop-dev">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-wpf"></span>
+                                                    <span class="menu-item-name">C# WPF &amp; UWP Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="menu-item default-behaviour" href="/ru/specialities/react-developer">
+                                                <div>
+                                                    <span class="menu-item-icon itvdnicon-react"></span>
+                                                    <span class="menu-item-name">React Developer</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                </ul>
+                            <div class="clearfix"></div>
+                            <div class="btn-box align-center">
+                                <a class="btn-orange-border-white-font" href="/ru/specialities">Все специальности</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="desktop menu-liveonline-item">
+                    <a class="menu-item">
+                        <div>
+                            <span class="menu-icon-EduWithTrainer menu-item-icon"></span>
+                            <span class="menu-item-name">Обучение с тренером</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+
+                    <div class="dropdown-block lo-specialities">
+                        <div class="bg-fixed"></div>
+                        <div class="bg-fixed"></div>
+                        <div class="sub-menu-container width-2x" style="width: 310px!important;">
+
+                            <ul class="menu-items-list second-level float-left" style="width: 100%;">
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/introduction-lesson">
+                                        <div>
+                                            <span class="menu-item-icon intro-lesson-icon"></span>
+                                            <span class="menu-item-name">
+                                                Ознакомительный Урок
+                                            </span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/employment-assistance">
+                                        <div>
+                                            <span class="menu-item-icon employment-assistance-icon"></span>
+                                            <span class="menu-item-name">
+                                                Помощь в трудоустройстве
+                                            </span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/frontend-developer">
+                                        <div>
+                                            <span class="smaller-menu-item-icon itvdnicon-frontend-new"></span>
+                                            <span class="menu-item-name">
+                                                Frontend Developer
+                                            </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/net-developer">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-net-developer"></span>
+                                            <span class="menu-item-name">.NET Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" href="/ru/live-online/java-developer">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-Java"></span>
+                                            <span class="menu-item-name">Java Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="menu-item default-behaviour" style="color: gray!important; cursor: default;">
+                                        <div>
+                                            <span class="menu-item-icon itvdnicon-python-developer"></span>
+                                            <span class="menu-item-name">Python Developer</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <div class="clearfix"></div>
+                            <div class="btn-box align-center">
+                                <a class="btn-orange-border-white-font" href="/ru/live-online">LIVE ONLINE ОБУЧЕНИЕ</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </li>
+                <li class="mobile">
+                    <a href="/ru/live-online" class="menu-item">
+                        <div>
+                            <span class="menu-icon-EduWithTrainer menu-item-icon"></span>
+                            <span class="menu-item-name">Обучение с тренером</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="mobile">
+                    <a href="/ru/specialities" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-it-company menu-item-icon"></span>
+                            <span class="menu-item-name">IT специальности</span>
+                        </div>
+                    </a>
+                </li>
+                <li data-url-active="/ru/skills">
+                    <a href="/ru/skills" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-timer menu-item-icon"></span>
+                            <span class="menu-item-name">Интерактивный тренажер</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li data-url-active="/ru/channel">
+                    <a href="/ru/webinars" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-video-channel menu-item-icon"></span>
+                            <span class="menu-item-name">Бесплатные вебинары</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li data-url-active="/ru/subscriptions">
+                    <a href="/ru/subscriptions" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-calendar menu-item-icon"></span>
+                            <span class="menu-item-name">Цены на обучение</span>
+                        </div>
+                    </a>
+                </li>
+
+                <li data-url-active="/ru/corporateeducation">
+                    <a href="/ru/corporateeducation" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-corp-edu menu-item-icon"></span>
+                            <span class="menu-item-name">Обучение сотрудников</span>
+                        </div>
+                    </a>
+                </li>
+
+                
+
+                <li class="desktop" id="sharesNnewsBtn" data-url-active="/ru/shares">
+                    <a class="menu-item lazy-load">
+                        <div>
+                            <span class="itvdnicon-wallet menu-item-icon"></span>
+                            <span class="menu-item-name">Акции и Новости</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+                    <div class="dropdown-block specials" data-lazy-url="/ru/sidemenu/sharesmenupartial" data-type="specials">
+                        <div class="css-loader"><div></div><div></div><div></div><div></div></div>
+
+                    </div>
+                </li>
+                <li class="mobile">
+                    <a href="/ru/shares" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-wallet menu-item-icon"></span>
+                            <span class="menu-item-name">Акции</span>
+                        </div>
+                    </a>
+                </li>
+                
+
+                <li class="desktop" data-url-active="/ru/support">
+                    <a class="menu-item lazy-load">
+                        <div>
+                            <span class="itvdnicon-message menu-item-icon"></span>
+                            <span class="menu-item-name">Служба поддержки</span>
+                        </div>
+                        <span class="itvdnicon-play-arrow"></span>
+                    </a>
+                    <div class="dropdown-block support" data-lazy-url="/ru/sidemenu/supportmenupartial" data-type="support">
+                        <div class="css-loader"><div></div><div></div><div></div><div></div></div>
+
+                    </div>
+                </li>
+
+                <li class="mobile">
+                    <a href="/ru/support" class="menu-item">
+                        <div>
+                            <span class="itvdnicon-message menu-item-icon"></span>
+                            <span class="menu-item-name">Поддержка</span>
+                        </div>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="bottom-bunner">
+            <div class="search-cabinet-block none-display cabinet-left">
+                <div class="search-wrapper">
+                    <span class="itvdnicon-find"></span>
+                    <input type="text" class="site-search" data-dropdown-type="down" name="name" id="search-on-side" autocomplete="off" />
+                </div>
+                <!--Donut#B2BEB8F8859E77E87738289DB634B9B7B19096E2E2BD938A43CA87A60FA7393456E533C99A2EA7C36609EFE79BFB639C514E1528C4BE41595F151390DDF46D47A778756EC90948B981E12F2EDEA5DE4E4CFCAACE06DB38D8B751E2D089DA161BBF4CAA1DD80DEDA773C32361A86D6CF7C896AC130D82EFEFD9E1B3CAF82AC9614CECE39E51B1649E112146E139D67C657C4991C4760ECBA2736149311D1346A5708B4F8A83AA240A6CC08C2D20127B4D04C395879A8144B56F389B7F564E2C0438E62436F8BAF62DD3A037EF2DDD1109F4BB486100A19F29E4BEA6699F38C6485EC2A1E9BFE5892D59A2D28ECCA0360696989F73980FC8C962548BA1061B7EE39EB01A912757EEAF38669D9BA70E2A3F2F942601397014D31BC1709E002A3DA25B23D2612E88B07E82F4F54DF7C8C156E9F4C903952CAFBFEBD89798BDCD0BA858620E22D14927741A7B3A1DDCF6AC26D1501AADB093428EE6D19A368A3A39944C21D894351012914E6988F282BC123A0539637BB7874F5FDAD5816BBC885801B117158E651050C24B604867B27CB9D14F410A85247E54D1415444626978D8AC0FEB09946CCA5DB0354AAA787EFE5073348B9938504D471A01150EC9291F54B497C5EAA9EE0CFCD5BA627BCD09FB4B661F56842C6BD41A183C5F7BC1FBDE5EF78DE3F784908AA3E6C9848F5F11E43DD83B07F325FB745D88CCFFAA84FFD97DFC63BA5E45C2975E5C1C50AFF4EE8350EEF121ABDBF7ACB92A2549A411A4142E19CDE4ACDB#-->
+
+
+<div class="cabinet-controls-wrap">
+
+    <a class="cabinet-btn" rel="nofollow" href="/ru/Account/Login?returnUrl=%2Fru">
+        <div>
+            <span class="itvdnicon-login"></span>
+                <span class="cabinet-btn-title">Авторизация</span>
+        </div>
+    </a>
+</div>
+
+
+
+
+
+<!--EndDonut-->
+            </div>
+            <div class="subscription-block">
+                <p>
+                    Выбери свою <span>IT</span> специальность
+                </p>
+                    <a rel="nofollow" href="/ru/account/register?jumpStart=true&returnUrl=/ru" class="btn-filled-orange">
+                        Начать бесплатно
+                    </a>
+            </div>
+            <div class="social-panel-wrapper">
+                <p class="text">
+                    Будь в курсе новостей подпишись на нас в соцсетях
+                </p>
+                <div class="social-icons-container">
+                    <a href="/ru/subscribe-vk" target="_blank">
+                        <div>
+                            <span class="itvdnicon-vk2"></span>
+                        </div>
+                    </a>
+                    <a href="/ru/subscribe-fb" target="_blank">
+                        <div>
+                            <span class="itvdnicon-facebook2"></span>
+                        </div>
+                    </a>
+                    <a href="/ru/subscribe-youtube" target="_blank">
+                        <div>
+                            <span class="itvdnicon-youtube-play"></span>
+                        </div>
+                    </a>
+                    <a href="/ru/subscribe-telegram" target="_blank">
+                        <div class="tg-icon">
+                            <span class="telegram-icon-plane"></span>
+                        </div>
+                    </a>
+                    <a href="/ru/subscribe-linkedin" target="_blank">
+                        <div>
+                            <span class="itvdnicon-linkedin2"></span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <a href="/ru" class="logo-link">
+                <div class="logo-img-wrapper">
+                    <img src="/Content/img/header/logo.svg" alt="ITVDN logo">
+                </div>
+                <div class="logo-text-wrapper">
+                    <span>Видеокурсы по <br /> программированию</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+    <!--Donut#AD1E3C2D4FFD68F6F42A70996CCFFC9AA5C06C6F143F3E375EFF9206A6CBD4DE22AEFCCC4C34C2AF12F32A01949017F04EE80BE041D814A23CAAF6940E38349A919463103B1D3FA9DA57ACAB42CF97A7188098F031F88999794ACF6E70C73081BCEE523C82533A8B13CE6559B691445497AABAD64B91870DC912C983CF8227567042FD16C15692B513EE8B253A70061BF2A57BC0959286D0A7D3A1C6606C462205C105AC6E39DA82D365D6BECA19015B60D47F84B72AE03CC85961B966869E2F56C4CD96EC6A983B81ABC338DF635D46B7463664FA76B765AEAE3C1CA97AAA06A2435D70CA5671D70D6FD18DCC219A1FAEF6CC7556C41D384B844882464B1E53CF1E5E0EB73317A352C9B03C333CDE419EA29064E9F7A896156CAF6E9E06163F4765704CFF25B15C866C21748ED544EBA19C675B5F5F5F4280095EF19BB6076AE8375C4A98BBC2C4F9956B6DFE7E32F50010006F3A4A0EEB8BB138645B9D8C44FCA3137C0B67C1F32BBEC355D4515AAEBC8C35CF73F2C85F4C5169FF2FB13B3E2E47A7D8C2DF372C1A613C329139BA30494AB26B0C18A22FC99CBC3572BBFCDF58949148D6CBA29A70D57EB6DF1273B83EEB5318B6A46B953A0F4D9A922841869B341CD533E9457D6411349E622A94843F09983426D1893C5F325BA644B80BE2E8D3275C1B8D3B94EDADD63AF7CDA348DCCD1A2AD21D9DE09F0E8E430AD3D283F32302625A12E951136EC7AFF6B28696BA6150E3B46EC246642886A73FDCE069A9E14B69FA6B5277202E0ED6DEAC367C5C0DF27E7D8519778EB36D5EA391435D8E016209D08F25E3A28767EAA88160F7AC8DFF7DB7DE830A1E835DA402B2B6F89A887F587B954FF6A9C4FCCDE24161C348532B7E#-->
+<div class="top-header-block">
+    <div class="top-header">
+        <div class="subscription-block side-margin-left-indent shown">
+            <p>
+                Выбери свою <span>IT</span> специальность
+            </p>
+                <a href="/ru/account/register?jumpStart=true&returnUrl=/ru" rel="nofollow" class="btn-filled-orange">
+                    Начать бесплатно
+                </a>
+        </div>
+        <div class="search-cabinet-block">
+            <div class="search-wrapper">
+                <span class="itvdnicon-find"></span>
+                <input type="text" class="site-search" data-dropdown-type="top" name="header-search" id="search-on-top" autocomplete="off" />
+            </div>
+            
+
+
+<div class="cabinet-controls-wrap">
+
+    <a class="cabinet-btn" rel="nofollow" href="/ru/Account/Login?returnUrl=%2Fru">
+        <div>
+            <span class="itvdnicon-login"></span>
+                <span class="cabinet-btn-title">Авторизация</span>
+        </div>
+    </a>
+</div>
+
+
+
+
+
+
+        </div>
+    </div>
+
+    <div class="subscription-block side-margin-left-indent hidden">
+        <p>
+            Выбери свою <span>IT</span> специальность
+        </p>
+            <a href="/ru/account/register?jumpStart=true&returnUrl=/ru" rel="nofollow" class="btn-filled-orange">
+                Начать бесплатно
+            </a>
+    </div>
+</div>
+
+<!--EndDonut-->
+    <div class="main-section">
+        
+        
+
+
+<div class="home-page">
+    <span id="data" style="display: none;">
+PHP Developer//C# WPF &amp; UWP Developer//Quality Assurance//JavaScript Developer//Unity / Game Developer//С чего начать?//Ruby Developer//iOS Developer//Frontend Developer//Database Developer//Python Developer//ASP.NET MVC Developer//ASP.NET Core Developer//C++ Developer//.NET Developer//Java Developer//Android Developer//React Developer//Angular Developer//Верстальщик сайтов//Python Starter//Java Starter//C# Стартовый// PHP Starter//SQL Essential//HTML &amp; CSS//JavaScript Essential//Angular Essential//Шаблоны проектирования//C# базовый (ООП)//HTML5 и CSS3 Essential//AngularJS Essential//C# для профессионалов - Обновленный//JavaScript Advanced//ASP.NET MVC Fundamentals//Ruby Advanced//UWP Community Toolkit Advanced//Spring MVC//ECMAScript 6//C++ Essential//React Advanced//Java Professional Renewed//Scala Essential//Выполнение домашнего задания по курсу SQL Essential//Android Design Support Library//Введение в Project Management//HTML5 Web Components//PostgreSQL//Unity Starter//Unity Essential//PHP Essential//Node.js//How to SQL Essential //Xamarin. Легкий старт//Android User Interface//Создание адаптивного SPA с Angular//Написание игрового сервера и создание клиента на Unity//IntelliJ IDEA Tips &amp; Tricks//Web Testing automation on Java//Основы тестирования ПО//Kodu Game Lab//Основы Java EE//Разработка под Android. Создание книги контактов//Angular CLI//Python Essential//Visual Studio 2019 Tips &amp; Tricks//Angular Advanced//How to C# Starter//C++ Starter//Изоморфные приложения на React //Синхронизация данных двух информационных систем с использованием LINQ и Entity FW 6//YII2 Advanced//Разработка Web Services на платформе Java//Разработка приложений под Android. Базовый курс//Что нового в C# 6.0-7.0//JDBC &amp; Hibernate//Создаем игру Need for Speed на Unity//Swift Professional//Swift Essential//CoffeeScript//Entity Framework 6//JavaScript: Расширенные возможности//How To PHP Starter//Unity User Interface//HighLoad++ 2017. Безопасность//UWP Community Toolkit Basic//Java Professional//Движок HTML шаблонов Thymeleaf//C# Starter Express //Создание приложений с помощью Spring Data//HighLoad++ 2017. Архитектуры/масштабируемость, бекенд, enterprise-системы//Python Practice//C# Асинхронное программирование//How to C# Professional //ASP.NET Core Web API. Практический курс//How to Swift Starter//Создание пользовательского интерфейса в ASP.NET Core//Ruby Essential//Laravel//Python Advanced//С чего начать? //Основы тестирования//How to HTML&amp;CSS//Как стать программистом?//React Essential//Bootstrap 4//TypeScript Fundamentals//Автоматизация сборки проектов с помощью Apache Maven//C++ Advanced//Основы MongoDB//Выполнение домашнего задания по курсу C# Базовый//Ruby on Rails//Swift Starter//Photoshop. Базовый курс для web-разработчика//HTML5 &amp; CSS3 Advanced//AWS Core//SOLID принципы в Java//Архитектура Android приложений//Vue.js Essential//Twitter Bootstrap 3//SQLite. Базы данных в Android приложениях//WordPress Essential//Dependency Injection в Android-разработке//Java Essential//Процедурное программирование на языке C#//Spring//Основы использования Git//JavaScript Шаблоны//Практики и инструменты DevOps//Vue.js Starter//Kotlin//C# Professional Express //SQL Практикум//Unity Advanced//TypeScript Fundamentals Updated//Методологии управления проектами. Вступление в SCRUM//Unit тестирование в Java с JUnit//ASP.NET Core Essential//Android Advanced//Практикум курса C# Стартовый на примерах из GTA 5//UX/UI Design Starter//Unit тестирование в C#//Создание Counter Strike. Сетевой FPS shooter на Unity//How to Java Starter//ASP.NET Core Advanced//Практический курс по верстке лендинга//Разработка игр для Steam VR c использованием PlayStation VR//Visual Studio 2013 Tips &amp; Tricks//Google Material Design для WPF разработчика//Создание трёхмерной графики в Cinema 4D//C# Универсальные шаблоны//ASP.NET MVC 5. Базовый//Программирование на платформе UWP//Transact SQL//Qt Framework//Создание пользовательских элементов управления в Android//How to Swift Essential//Выполнение домашнего задания по курсу C# Стартовый//Scala Starter//Создание адаптивного сайта с Bootstrap 3//Алгоритмы и структуры данных - Обновленный//Создаем игру типа “Pok&#233;mon Go“//UnityEditor. Примеры для сетевых игр//Unit тестирование для Android разработчиков//YII2 Essential//Entity Framework Core//MySQL Essential//Практический курс по Laravel//Golang//SharePoint 2013 Администрирование//Верстка сайта на FlexBox CSS//Unity Создание Clicker//QA Starter//ASP.NET WEB API 2//Разработка Virtual Reality (VR) игр на Unity//Разработка пользовательского графического интерфейса (GUI) на C# под Android (Xamarin)//WordPress Starter//Java Database Connectivity (JDBC)//C# Essential Express //UX/UI Design Essential//How to C# Essential //How To JavaScript//Публикация веб-сайта//Реализация Transform-потоков в Node.js//Элементы математической логики//Подготовка к собеседованию в IT компании. Вопросы и ответы. Хитрости. Трюки. //Django//HTML5 и CSS3 Starter//ASP.NET MVC 5. Углубленный//C# для профессионалов//ASP.NET Углубленный//Алгоритмы и структуры данных//ASP.NET Базовый//Entity Framework 5//TDD - Разработка через тестирование//Team Foundation Server Fundamentals//MSDN Video Channel//ADO.NET//WPF Углубленный//WPF//C# Starter (ES)//ASP.NET MVC 4//JQuery//WCF Essential//Платформа Managed Extensibility Framework (MEF)//Рефакторинг .NET Приложений//Асинхронное программирование в C# 5//Обзор шаблонов проектирования//Microsoft Аrchitecture Guide//Разработка Windows Store приложений с JavaScript и HTML5//Статические методы в интерфейсах//Введение в Entity Framework. Шаблоны разработки Entity Framework//C# Starter (EN)//Scala Advanced//    </span>
+    <span id="dataHref" style="display: none;">
+php-developer--dnet-desktop-dev--qa--js--game-developer--start--ruby--ios-developer--frontend-developer--database-developer--python-developer--backend-developer--aspnet-core--cplspls--net-developer--java-developer--android-dev--react-developer--angular-dev--html-coder--/video/python-starter--/video/java-starter--/video/csharp-starter--/video/php_start--/video/sql-essential--/video/html-and-css-renewed--/video/javascript-essential--/video/angular2_essential--/patterns--/video/csharp-essential--/video/html5-and-css3--/video/angular-js--/video/csharp-for-professional-renewed--/video/javascript-advanced--/video/mvc--/video/ruby-advanced--/video/uwp-advanced--/video/spring_mvc--/video/es6--/video/cplspls-essential--/video/react_adv--/video/java-professional--/video/scala-essential--/video/sql-homework--/video/android-design--/video/projectmanagementstart--/video/html5-webcomponents--/video/postgresql--/video/unity-3d--/video/unity3d-essential--/video/php_essential--/video/node_js--/video/how-to-sql-essential--/video/xamarin--/video/android-user-interface--/video/spa-angular--/video/writing-game-server-client-creation-unity3d--/video/intellij-idea--/video/webtesting-automation--/video/testing-process--/video/kodugl--/video/java-ee--/video/android-practice-contacts--/video/angular_cli--/video/python-essential--/video/vs19--/video/angular-advanced--/video/how-to-c-sharp-starter--/video/cplusplus--/video/isomorphic-application--/video/synchronization--/video/yii2-adv--/video/webservices-java--/video/android_essential--/video/cs6_7--/video/jdbc-hibernate--/video/unity_nfs--/video/swift-professional--/video/swift-essential--/video/coffeescript--/video/entity-framework-6--/video/javascript-extended-capabilities--/video/php-howto--/video/unity-user-interface--/video/highloadplspls--/video/uwp-communitytoolkit-basic--/video/java_prof--/video/thymeleaf--/video/c-sharp-starter-express--/video/spring-data--/video/highloadplspls-enterprise--/video/python-practice--/video/asynchron-programming-csharp--/video/how-to-csharp-prof--/video/aspnetcore-webapi--/video/howto-swift-start--/video/aspnet-core-ui--/video/ruby_essential--/video/laravel--/video/python-advanced--/video/start--/video/manual_qa--/video/how-to-html-css--/video/how-become-programmer--/video/react-js-essential--/video/twitter-bootstrap4--/video/typescriptfundamentals--/video/apache-maven--/video/cplspls-advanced--/video/mongodb--/video/c-sharp-basic-homework--/video/ruby-on-rails--/video/swift_starter--/video/photoshop--/video/html-css-advanced--/video/aws--/video/solid-java--/video/android-architecture--/video/vuejs-essential--/video/bootstrap--/video/sqlite-android--/video/wordpress-essential--/video/dependency-injection--/video/javaessential--/video/procedural-programming-csharp--/video/spring--/video/basics-using-git--/video/javascript-patterns--/video/devops--/video/vuejs--/video/kotlin--/video/c-sharp-professional-express--/video/sql-workshop--/video/unity-3d-advanced--/video/typescript-fundamentals--/video/scrum--/video/junit--/video/aspnet-core-essential--/video/android-advanced--/video/c-sharp-starter-examples-gta5--/video/uxui-design--/video/unit-testing-csharp--/video/creating-counter-strike--/video/howto_javastarter--/video/aspnetcore-adv--/video/landing--/video/steamvr_psvr--/video/vs2013-tips-and-tricks--/video/google_material_design--/video/cinema4d--/video/c-sharp-generics--/video/aspnet-mvc5--/video/uwp--/video/ssms_tsql--/video/qt-framework--/video/custom-elements-android--/video/howto-swift-essential--/video/c-sharp-starter-homework--/video/scala-starter--/video/creating-adaptive-site-bootstrap3--/video/algorithms-and-data-structures-renewed--/video/pokemongo--/video/unityeditor--/video/unit-test-android--/video/yii2_ess--/video/entity-framework-core--/video/mysql-essential--/video/laravel-practice--/video/golang--/video/sharepoint--/video/flexbox-css--/video/creating-clicker--/video/qastarter19--/video/aspnet-webapi-2--/video/vr--/video/development-graphical-user-interface--/video/wordpress_str--/video/java-database-connect--/video/c-sharp-essential-express--/video/uiux-design-essential--/video/how-to-c-sharp-essential--/video/how-to-java-script--/video/sitepublication--/video/transform_nodejs--/video/math-logic--/video/interview--/video/django--/video/html5-css3-starter--/video/aspnet-mvc5-advanced--/video/csharp-for-professional--/video/asp-net-advanced--/video/algorithms-and-data-structures--/video/asp-net-essential--/video/entity-framework-5--/video/test-driven-development--/video/tfs-fundamentals--/video/msdn--/video/ado-net--/video/windows-presentation-foundation-advanced--/video/wpf--/video/csharp-starter-es--/video/asp-net-mvc4--/video/jquery--/video/wcf-essential--/video/managed-extensibility-framewok--/video/refactoring--/video/async-progrmaing--/video/patterns-of-design-review--/video/microsoft-architecture-guide--/video/windows-store-app-html5-and-javascript--/video/static-method-in-interface--/video/entity-framework-introduction--/video/csharp-starter-en--/video/scala-advanced--    </span>
+    <div>
+        <div class="home-main-bg">
+            <div class="home-title-mob">
+                <div class="home-main-bg__title">
+
+                    <span class="title__main"> Изучай программирование</span>
+                    <div class="title__sub">
+                        <span class="title__sub_f">На ITVDN</span>
+                        <span class="title__sub_s">стань профессионалом в IT</span>
+                    </div>
+                </div>
+
+
+                <div class="home-main-bg__search">
+                    <div class="search-input-box">
+                        <input id="home-search" type="text" placeholder="Что Вы хотите изучить?" name="name" value="" autocomplete="off">
+                        <img class="search-icon" id="home-search-btn" src="/Content/img/home/icons/search.png" />
+
+                        <div class="search-op-wrapper"> </div>
+                    </div>
+                    <a href="/ru/catalog" class="search__about">полный список курсов смотрите в Каталоге</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="first-meeting-wrapper">
+        <div class="first-meeting">
+            <div class="first-meeting__video">
+                <div class="video-holder">
+                    <iframe id="first-meeting-video" width="560" height="315" src="https://www.youtube.com/embed/3JJ51yWz0o8?start=36" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                    <div class="img-cover">
+                        <img src="/Content/img/home/video-cover2.jpg" />
+                        <div id="play-section" class="play-btn-custom-images">
+                            <img src="/Content/img/home/video-cover-btn.png" />
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="first-meeting__right-block">
+                <div class="first-meeting__right-block_text-block">
+                    <h3 class="text-block__title">
+                        Первое знакомство с ITVDN
+                    </h3>
+                    <ul class="text-block__list">
+                        <li>
+                            <span class="orange-tri"></span>
+                            <span class="text-block__list_inner-text" data-time="0">Знакомство с каталогом ITVDN</span>
+                        </li>
+                        <li>
+                            <span class="orange-tri"></span>
+                            <span class="text-block__list_inner-text" data-time="65">Какие специальности есть на ITVDN?</span>
+                        </li>
+                        <li>
+                            <span class="orange-tri"></span>
+                            <span class="text-block__list_inner-text" data-time="78">Специальность .NET Developer</span>
+                        </li>
+                        <li>
+                            <span class="orange-tri"></span>
+                            <span class="text-block__list_inner-text" data-time="137">Как проходит обучение?</span>
+                        </li>
+                        <li>
+                            <span class="orange-tri"></span>
+                            <span class="text-block__list_inner-text" data-time="182">Сертификат об окончании курса</span>
+                        </li>
+                        <li>
+                            <span class="orange-tri"></span>
+                            <span class="text-block__list_inner-text" data-time="211">Как правильно выбрать план подписки?</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="first-meeting-subscription">
+            <div class="first-meeting-subscription__block">
+                <div class="subscription__block_title">Изучай программирование за</div>
+                <div class="subscription__block_number">9.99 USD</div>
+                <div class="subscription__block_price">в месяц</div>
+                <a href="/ru/subscriptions" class="subscription__block_btn btn-filled-orange">подписка</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="chugayster-body__educ-about">
+        
+        <header class="content-header_orange-border">
+            <div class="itvdn-section-header">Как происходит обучение</div>
+        </header>
+        <div class="educ-about__cards-wrap chugayster-section-padding">
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">План обучения</div>
+                    <div class="educ-about__card_body_text">
+                        Пользуйтесь Планировщиком обучения для составления индивидуального плана обучения,
+                        выберите только нужные курсы и темы.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Смотрите видео уроки</div>
+                    <div class="educ-about__card_body_text">
+                        Смотрите видео уроки, пользуйтесь временными метками для быстрого перехода к теме.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Учебные материалы</div>
+                    <div class="educ-about__card_body_text">
+                        Скачайте исходники программного кода, опорный конспект и презентации к урокам и работайте с ними.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Выполняйте задания</div>
+                    <div class="educ-about__card_body_text">
+                        Закрепляйте полученные знания, выполняя домашние задания после каждого урока.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Проверка знаний</div>
+                    <div class="educ-about__card_body_text">
+                        Проходите онлайн тестирование после каждого урока и после всего курса.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Общение с ментором</div>
+                    <div class="educ-about__card_body_text">
+                        Общайтесь с ментором, получайте помощь и поддержку в решении сложных задач.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Тренажер навыков</div>
+                    <div class="educ-about__card_body_text">
+                        Формируйте навыки написания кода, используя Тренажер.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Форум</div>
+                    <div class="educ-about__card_body_text">
+                        Общайтесь с другими студентами, тренерами, единомышленниками на форуме ITVDN.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Вебинары</div>
+                    <div class="educ-about__card_body_text">
+                        Участвуйте в бесплатных образовательных вебинарах по программированию, задавайте Ваши вопросы в прямом эфире.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Сертификат</div>
+                    <div class="educ-about__card_body_text">
+                        Пройдите тестировние и получите сертификат, подтверждающий Ваши знания.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Диплом по специальности</div>
+                    <div class="educ-about__card_body_text">
+                        Для получения диплома нужно изучить все обязательные технологии по выбраной специальности и сдать финальный экзамен.
+                    </div>
+                </div>
+            </div>
+
+            <div class="educ-about__card">
+                <div class="educ-about__card_img"></div>
+                <div class="educ-about__card_body">
+                    <div class="educ-about__card_body_title">Бонусы</div>
+                    <div class="educ-about__card_body_text">
+                        Получайте бонусы за использование ресурсов ITVDN и обменивайте их на подарки и скидки.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="spec-block-wrapper">
+        <header class="content-header_orange-border">
+            <div class="itvdn-section-header">ПОПУЛЯРНЫЕ НАПРАВЛЕНИЯ В ОБУЧЕНИИ ПРОГРАММИРОВАНИЮ</div>
+        </header>
+
+            <section id="specialitiesAnchor" class="spec-pack subscr-corp-block js-parent-sort">
+
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="dotnet-dev-package" style="">
+                <a href="/ru/specialities/net-developer" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/net-developer-88d7391d-fe2f-447b-9c4d-b577cf2773b4.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-net-developer"></span>
+                        </div>
+                        <div class="spec-block__main_title">.NET Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">50 курсов на 8 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="frontend-dev-package" style="">
+                <a href="/ru/specialities/frontend-developer" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/frontend-developer-a1d1ac57-8baf-4d2c-866d-39f558e33982.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-frontend-new"></span>
+                        </div>
+                        <div class="spec-block__main_title">Frontend Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">37 курсов на 7 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="python-dev-package" style="">
+                <a href="/ru/specialities/python-developer" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/python-developer-275e1ce8-03aa-4fa4-afff-bf9ea06953f9.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-python-developer"></span>
+                        </div>
+                        <div class="spec-block__main_title">Python Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">11 курсов на 5 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="java-dev-package" style="">
+                <a href="/ru/specialities/java-developer" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/java-developer-9e3cdf89-e30d-41f0-9222-e5cb639efb61.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-Java"></span>
+                        </div>
+                        <div class="spec-block__main_title">Java Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">25 курсов на 6 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="aspnet-core-dev-package" style="">
+                <a href="/ru/specialities/aspnet-core" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/aspnet-core-91d688eb-eee2-4126-afef-2d1d0e07855d.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-asp-net-core"></span>
+                        </div>
+                        <div class="spec-block__main_title">ASP.NET Core Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">13 курсов на 4 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="web-dev-package" style="">
+                <a href="/ru/specialities/html-coder" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/html-coder-cfeff022-d213-4b23-b3b0-984e2284d343.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-HTML"></span>
+                        </div>
+                        <div class="spec-block__main_title">Верстальщик сайтов</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">19 курсов на 4 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="game-dev-package" style="">
+                <a href="/ru/specialities/game-developer" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/game-developer-6e392e63-12d4-499c-a57b-2644f9663cf6.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-game-developer"></span>
+                        </div>
+                        <div class="spec-block__main_title">Unity / Game Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">19 курсов на 4 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="android-dev-package" style="">
+                <a href="/ru/specialities/android-dev" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/android-dev-2929da00-5f9f-4230-8792-725edbf546cc.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-android"></span>
+                        </div>
+                        <div class="spec-block__main_title">Android Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">14 курсов на 3 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block show-m-spec" 
+                 data-subscr-name="aspnet-mvc-dev-package" style="">
+                <a href="/ru/specialities/backend-developer" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/backend-developer-6c034426-d4c9-48fa-8376-f4650ee4999c.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-solution-architect"></span>
+                        </div>
+                        <div class="spec-block__main_title">ASP.NET MVC Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">19 курсов на 4 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block show-m-spec" 
+                 data-subscr-name="angular-dev-package" style="">
+                <a href="/ru/specialities/angular-dev" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/angular-dev-7f692b23-fe83-4a42-b75c-99b65a02e120.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-angular"></span>
+                        </div>
+                        <div class="spec-block__main_title">Angular Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">8 курсов на 3 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="php-dev-package" style="display: none;">
+                <a href="/ru/specialities/php-developer" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/php-developer-248a876c-d738-4de4-b615-8acd6213f215.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-PHP"></span>
+                        </div>
+                        <div class="spec-block__main_title">PHP Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">15 курсов на 4 мес.</div>
+                </div>
+            </div>
+            <div 
+                 class="spec-block " 
+                 data-subscr-name="js-dev-package" style="display: none;">
+                <a href="/ru/specialities/js" class="spec-block__bg" style="background-image: url('https://itvdn.blob.core.windows.net/specialities-subscription-images/js-ce7563a9-0ab0-49d8-9b3e-77a832eabf70.jpg');">
+                    <div class="spec-block__main">
+                        <div class="spec-block__main_icon">
+                            <span class="itvdnicon-JS"></span>
+                        </div>
+                        <div class="spec-block__main_title">JavaScript Developer</div>
+                    </div>
+                </a>
+                <div class="spec-block__price-block">
+                    <div class="spec-block__main_c-count">8 курсов на 3 мес.</div>
+                </div>
+            </div>
+    </section>
+
+    </div>
+
+    <div>
+        <div class="shares-news-conteiner">
+            <ul class="tabs-controls">
+                <li class="active-tab">
+                    <a href="#tab-shares">АКЦИИ</a>
+                </li>
+                <li>
+                    <a href="#tab-news">ПОСЛЕДНИЕ НОВОСТИ</a>
+                </li>
+            </ul>
+            <div class="tabs-content">
+                <div id="tab-shares" class='one-tab_wrap '>
+    <div class="one-tab-block slick-responsive">
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/shares/landing-free'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/e96a8c11-c209-48ec-83ea-cf0783a59cf3-cover.jpg)"></div>
+                    </a>
+                </div>
+
+                <div class="header-6">Курс по верстке лендинга - бесплатно</div>
+                <span>8 апреля 2020</span>
+                <a href='/ru/shares/landing-free'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/shares/free-courses2020'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/7b945e95-5ebe-4dfb-8774-58db0eebbeed-cover.jpg)"></div>
+                    </a>
+                </div>
+
+                <div class="header-6">Изучайте программирование бесплатно</div>
+                <span>18 марта 2020</span>
+                <a href='/ru/shares/free-courses2020'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/shares/special-offers'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/555b453c-3fd8-43f0-9572-343a2b8766e3-cover.jpg)"></div>
+                    </a>
+                </div>
+
+                <div class="header-6">Социальный проект ITVDN</div>
+                <span>12 апреля 2016</span>
+                <a href='/ru/shares/special-offers'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/shares/time-to-study-online'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/788aa084-ff3d-44f2-b311-cb4c228014ba-cover.jpg)"></div>
+                    </a>
+                        <a class="show-more-btn" href="/ru/shares">
+                            <span class="itvdnicon-icon-button-arrow-onorange"></span>
+                            <span>
+                                БОЛЬШЕ <br />
+                                НОВОСТЕЙ
+                            </span>
+                        </a>
+                </div>
+
+                <div class="header-6">Время учиться онлайн</div>
+                <span>25 марта 2020</span>
+                <a href='/ru/shares/time-to-study-online'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+    </div>
+</div>
+
+
+                <div id="tab-news" class='one-tab_wrap active-tab'>
+    <div class="one-tab-block slick-responsive">
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/news/article/rit2020'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/551372bb-8411-420b-85f8-372452e996eb-cover.jpg)"></div>
+                    </a>
+                </div>
+
+                <div class="header-6">РИТ++</div>
+                <span>21 апреля 2020</span>
+                <a href='/ru/news/article/rit2020'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/news/article/dnet-fwdays20'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/442555cd-2bbf-4020-ae8a-5cadadac331f-cover.jpg)"></div>
+                    </a>
+                </div>
+
+                <div class="header-6">.NET fwdays’20 online conference</div>
+                <span>6 апреля 2020</span>
+                <a href='/ru/news/article/dnet-fwdays20'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/news/article/gowayfest-4'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/6719b930-fde9-47ac-8207-8bcbc35bed1d-cover.jpg)"></div>
+                    </a>
+                </div>
+
+                <div class="header-6">GoWayFest 4.0_Минск</div>
+                <span>25 марта 2020</span>
+                <a href='/ru/news/article/gowayfest-4'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+            <div class="one-tab__item">
+                <div class="one-tab_image">
+                    <a href='/ru/news/article/drupal-ua'>
+                        <div class="item-bg" style="background-image: url(https://itvdn.blob.core.windows.net/articles-new/3d36bc32-c039-40e1-a741-f91b11b96ea5-cover.jpg)"></div>
+                    </a>
+                        <a class="show-more-btn" href="/ru/news">
+                            <span class="itvdnicon-icon-button-arrow-onorange"></span>
+                            <span>
+                                БОЛЬШЕ <br />
+                                НОВОСТЕЙ
+                            </span>
+                        </a>
+                </div>
+
+                <div class="header-6">DrupalCamp Kyiv 2020</div>
+                <span>18 марта 2020</span>
+                <a href='/ru/news/article/drupal-ua'>
+                    <i class="itvdnicon-eye"></i>
+                    <span>Читать подробнее</span>
+                </a>
+            </div>
+    </div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <header class="content-header_orange-border">
+            <div class="header-2">ИСТОРИИ УСПЕХОВ НАШИХ ПОДПИСЧИКОВ</div>
+        </header>
+        <div>
+    <div class="students-story-container">
+    </div>
+</div>
+    </div>
+
+    <footer>
+        
+
+
+
+    <div class="subscription-banner">
+        <p style="text-transform: uppercase;">Стань профессионалом, используя все возможности обучения на <strong>ITVDN</strong></p>
+        <div class="subscriptions-container">
+
+
+
+
+
+                <div class="subscription__i">
+                    <div class="subscription-title--grey">
+                        Стартовый
+                    </div>
+                    <div>
+                        <a href="/ru/buy/3-months-subscription" class="btn-filled-orange">подписка</a>
+                    </div>
+                    <p>Все видео курсы на 3 месяца за 49.99 $</p>
+                </div>
+                <span style="display: none;">0</span>
+                <div class="subscription__i">
+                    <div class="subscription-title--green">
+                        Базовый
+                    </div>
+                    <div>
+                        <a href="/ru/buy/6-months-subscription" class="btn-filled-orange">подписка</a>
+                    </div>
+                    <p>Все видео курсы на 6 месяцев за 89.99 $</p>
+                </div>
+                <span style="display: none;">1</span>
+                <div class="subscription__i">
+                    <div class="subscription-title--orange">
+                        Премиум
+                    </div>
+                    <div>
+                        <a href="/ru/buy/1-year-subscription" class="btn-filled-orange">подписка</a>
+                    </div>
+                    <p>Все видео курсы на 12 месяцев за 169.99 $</p>
+                </div>
+                <span style="display: none;">2</span>
+        </div>
+    </div>
+
+    </footer>
+</div>
+
+
+
+        <footer class="main-footer">
+    <div class="footer-info-container">
+        <div class="footer-info">
+            <div class="footer-info__block">
+                <div class="header-3">обучение</div>
+                <div>
+                    <ul>
+                        <li><a href="/ru/support/consultations">Консультация с тренером</a></li>
+                        <li><a href="/ru/catalog">Каталог курсов</a></li>
+                        <li><a href="/ru/specialities">IT специальности</a></li>
+                        <li><a href="/ru/subscriptions">Планы подписок</a></li>
+                        <li><a href="/ru/subscriptions/giftcertificate">Подарочные сертификаты</a></li>
+                        <li><a href="/ru/live-online">Live-Online обучение</a></li>
+                        <li><a href="/ru/channel">Видео канал</a></li>
+                        <li><a href="/ru/blog">Статьи</a></li>
+                        <li><a href="https://forum.itvdn.com/" rel="nofollow">Форум</a></li>
+                    </ul>
+                    
+                </div>
+            </div>
+            <div class="footer-info__block">
+                <div class="header-3">Популярное</div>
+                <div>
+                    <ul>
+                        <li><a href="https://itvdn.com/ru/video/javascript-essential">JavaScript для начинающих</a></li>
+                        <li><a href="https://itvdn.com/ru/video/python-starter">Уроки Python</a></li>
+                        <li><a href="https://itvdn.com/ru/video/java-starter">Уроки Java</a></li>
+                        <li><a href="https://itvdn.com/ru/video/csharp-starter">Уроки C#</a></li>
+                        <li><a href="https://itvdn.com/ru/video/angular2_essential">Уроки Angular</a></li>
+                        <li><a href="https://itvdn.com/ru/video/php_start">Уроки PHP</a></li>
+                        <li><a href="https://itvdn.com/ru/video/cplusplus">Уроки C++</a></li>
+                        <li><a href="https://itvdn.com/ru/video/android_essential">Уроки Android</a></li>
+
+                    </ul>
+                    
+                </div>
+            </div>
+            <div class="footer-info__block">
+                <div class="header-3">сотрудничество</div>
+                <div>
+                    <ul>
+                        <li><a href="/ru/authors/become-an-author">Стань автором</a></li>
+                        <li><a href="/ru/info-partnership">Информационное партнерство</a></li>
+                        <li><a href="http://itmozg.ru/" target="_blank" rel="nofollow">Работа в IT</a></li>
+                        <li><a href="/ru/corporateeducation">Для IT компаний</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-info__block">
+                <div class="header-3">о проекте</div>
+                <div>
+                    <ul>
+                        <li><a href="/ru/about">О проекте</a></li>
+                        <li><a href="/ru/support">Контакты</a></li>
+                        <li><a href="/ru/support/faq">FAQ</a></li>
+                        <li><a href="/ru/maildeliveries">Архив рассылок</a></li>
+                        <li><a href="/ru/authors">Авторы</a></li>
+                        <li><a href="/ru/shares/special-offers">Социальный проект</a></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+        
+        <form class="newsletter-subscription-form" id="newsletter-subscription-form" data-url="https://mailsender.azurewebsites.net/subscribers/subscribe" data-success-text="Запрос успешно отправлен" novalidate>
+    <div class="form-preloader">
+        <div class="loader-wrap">
+            <svg version="1.1" class="loader-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 width="40px" height="40px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+            <path fill="#000" d="M43.935,25.145c0-10.318-8.364-18.683-18.683-18.683c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615c8.072,0,14.615,6.543,14.615,14.615H43.935z">
+            <animateTransform attributeType="xml"
+                              attributeName="transform"
+                              type="rotate"
+                              from="0 25 25"
+                              to="360 25 25"
+                              dur="0.6s"
+                              repeatCount="indefinite" />
+                    </path>
+                    </svg>
+        </div>
+    </div>
+    <div class="newsletter-subscription">
+        <div class="subscription-header">
+            <div class="header-letter-img">
+                <img src="/Content/img/newsletter-subscription/email.png" alt="Email Subscription" />
+            </div>
+            <div class="header-text">Подпишись на рассылку</div>
+        </div>
+        <div class="subscription-description">
+            <span class="subscription-description-text">
+                Будь в курсе новых акций ITVDN, видео уроков и вебинаров
+            </span>
+        </div>
+        <div class="subscription-email">
+            <div class="email-controls">
+                <input class="email-input" type="email" name="email" placeholder="Введите свой email" title="" />
+                <button class="subscription-submit" type="submit">&#64;</button>
+            </div>
+            <div style="display: none" class="email-success-message">
+                <span>
+                    Спасибо за подписку!
+                </span>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+    </div>
+    <div class="footer-down-container">
+        <div class="footer-links">
+            <a href="http://cbsid.com/ru/conditions" target="_blank" rel="nofollow">Условия пользования</a>
+            <a href="http://cbsid.com/ru/Home/Privacy" target="_blank" rel="nofollow"   >Заявление о конфиденциальности</a>
+            <a href="/ru/about/termsofuse" target="_blank">Договор публичной оферты</a>
+            <a href="/ru/sitemap">Карта сайта</a>
+        </div>
+        <span><span>&#169;</span>2020 ITVDN, все права защищены</span>
+    </div>
+</footer>
+
+    </div>
+    <div id="global-notification" class="global-notification success">
+    <i class="fa fa-check-circle-o"></i>
+    <span>Notification success</span>
+</div>
+
+    <script src="/bundles/js/core-20190407?v=9Irp8C2EjfWIsdWhn49y6zXrpuTr7hv45TeulYQBHWY1"></script>
+
+    
+    <script src="/bundles/js/home?v=B3z_Z9Y2G9Bo7hMU3CmLkKWw3TI7eTHL_GyIT2An0ZM1"></script>
+
+    <script type='text/javascript'>
+    (function () {
+        var widget_id = 'OsdukylCL2'; var d = document; var w = window; function l() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/' + widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);
+        } if (d.readyState == 'complete') { l(); } else { if (w.attachEvent) { w.attachEvent('onload', l); } else { w.addEventListener('load', l, false); } }
+    })();</script>
+    <script src="/Content/js/custom/home/set-video-start-time.js"></script>
+    <script src="/Content/js/custom/home/home-search.js"></script>
+
+
+    
+
+    
+
+
+<script type="text/javascript">
+        var google_tag_params = {
+            dynx_itemid: '',
+            dynx_pagetype: 'home',
+            dynx_totalvalue: 0,
+        };
+    </script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 949235841;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/949235841/?guid=ON&amp;script=0" />
+    </div>
+</noscript>
+
+    <!--Donut#2738229D590C7CE82A4B09F1C98AA3E9E39488A0ED90960DAECCEC88A73F7ABBFD2BA334D51BF12664558C212FA047ED07363331D6CC953D7046AA5D09CF1629F60BA509B877341BBC3FB84C29DC73FD82A99BC48AC86874C581561E6F8F113524AE7826AAC7DBADD5EB3617497F339AD65577624C0E5803E1D86DFE232284552030D4EABD7FFA8C44EB2A8D55298FC93E61963D17DEBA2DBF926511AC43F34407F1E4BFF389C42BCD04332EA0E28ED9130BB965FFEACE2E47C718EEA08FE26AEC434E34664B5DF54FA648D4459CEE2A031254C301325C93BD4CAF2395598206568A5174AE875F58F64D28D5203349A65344C663C4CD0507C214EEE8D04D683623396B35E0B4E2CCEE6654521305EC200257D2DC7FC7498032F5A0D553DA5707FE79B326A4E59AA17BD22D51D88C4E7D656C8A74B914D33D986148C00C79B85EE6199EEAFEFE618B48B5265F03075A6DC5CD613026FE2781B55C796D0D6249F7560F1128E88B7279773E672C58BBD7A86453A41A308A77FB44E903234C4FD21C642798A815EC58E4CD1F79B5680520B9224E3A17700A9119267B601975E4D2AF4F044FB47E028F44DF76F511823E426FE35ECEAE1B5965E6EF02237BDFE94E27AB1C862156384498EE1E7045F52875D35C6235BE9EEDF7EE33BD9EBFEFE42716F0CA923034BE5ACDD31A66BC015E5FEF9EA079EF0E1EF5489A7D269787CD601CFF8D77A48385317ADFB4708605F74E9721897172#--><!--EndDonut-->
+</body>
+</html>
+

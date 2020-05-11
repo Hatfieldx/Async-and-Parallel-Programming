@@ -1,0 +1,11 @@
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\bin\Debug\netcoreapp3.1\part4.exe
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\bin\Debug\netcoreapp3.1\part4.deps.json
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\bin\Debug\netcoreapp3.1\part4.runtimeconfig.json
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\bin\Debug\netcoreapp3.1\part4.runtimeconfig.dev.json
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\bin\Debug\netcoreapp3.1\part4.dll
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\bin\Debug\netcoreapp3.1\part4.pdb
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\obj\Debug\netcoreapp3.1\part4.csprojAssemblyReference.cache
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\obj\Debug\netcoreapp3.1\part4.AssemblyInfoInputs.cache
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\obj\Debug\netcoreapp3.1\part4.AssemblyInfo.cs
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\obj\Debug\netcoreapp3.1\part4.dll
+D:\EDU_C#\itvdn async&parallel\Lesson4\part4\obj\Debug\netcoreapp3.1\part4.pdb
